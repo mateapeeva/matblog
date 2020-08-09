@@ -1,13 +1,9 @@
-title: Your awesome title
-email: your-email@example.com
-description: >-
-  Write an awesome description for your new site here. You can edit this line in
-  _config.yml. It will appear in your document head meta (for Google search
-  results) and in your feed.xml site description.
-baseurl: matblog
+title: Математика
+email: mateapeeva@gmail.com
+description: "Овој блог е наменет за содржини од математика. Отворете и разгледајте се надевам ќе го најдете одговорот на вашето математичко прашање\U0001F600"
+baseurl: /matblog
 url: ''
-twitter_username: jekyllrb
-github_username: jekyll
+github_username: mateapeeva
 theme: minima
 plugins:
   - jekyll-feed
